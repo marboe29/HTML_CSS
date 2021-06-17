@@ -1,0 +1,111 @@
+.welcome{
+    height: 40vh;
+    background-image: url("assets/main-banner.png");
+    background-size: cover;
+    background-position: center;
+  }
+
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding: auto;
+  }
+  .grid-item {
+    padding: 10px;
+  }
+
+
+  .Local-trusted-pet {
+    padding-left: 15%;
+    padding-right: 15%;
+    font-family: Quicksand;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--gunmetal);
+  }
+
+  .Our-Services {
+    font-family: Quicksand;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+  }
+
+  .Card-Head {
+    font-family: Quicksand;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 1.25rem;
+  }
+
+  .Card-Para {
+    font-family: Quicksand;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: var(--gunmetal);
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .Learn-More-Copy {
+    font-family: Quicksand;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #de6c17;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .Btn-Learn {
+    padding: 8px 16px 8px 16px;
+    border-radius: 4px;
+    background-color: #de6c17;
+    font-family: Quicksand;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--white);
+    border: #de6c17;
+  }
+
+  .Header-Banner {
+    font-family: Quicksand;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+
+  .Header-Para-Banner {
+    font-family: Quicksand;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    color: var(--white);
+  }
