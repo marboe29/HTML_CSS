@@ -14,8 +14,3 @@ Grab that and complete the design found in Zeplin (Link and login details above)
 Try to do each thing well, it’s better to have half done perfectly, than rush it.
 
 Submit a link to a public repo with your attempt or zip it up and email it through.
-
-
-
-extension: live server
-Xampp: local host
